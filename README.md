@@ -1,4 +1,4 @@
 Unreal Engine 4 .gitignore
 =============
 
-Un .gitignore para proyectos Unreal Engine 4
+Un .gitignore para proyectos en Unreal Engine 4
